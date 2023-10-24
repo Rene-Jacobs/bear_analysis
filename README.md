@@ -1,4 +1,4 @@
-# Black Bear Body_weight Analysis Repository
+# Black Bear Body Weight Analysis Repository
 This GitHub repository contains an analysis of data taken from the article "Estimating the Live Body_weight of American Black Bears in Florida." The analysis focuses on the relationship between chest_girth and body_weight of black bears. The purpose of this repository is to provide a detailed overview of the data analysis process, including data collection, descriptive statistics, data visualization, correlation analysis, and linear regression.
 
 ## Data Source
