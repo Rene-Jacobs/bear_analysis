@@ -12,4 +12,4 @@ The analysis in this repository will follow the following steps:
 4. Correlation Coefficient: We will find the correlation coefficient, which will offer insights into the relationship between bear chest size and weight. We will support our conclusions with statistical reasoning and discuss how the graph created in step 2 supports or contradicts these conclusions.
 5. Linear Regression Equation: The linear regression equation will be derived to model the relationship between chest size and weight. The meaning of the terms B0 and B1 in the equation with respect to chest size and weight will be explained. The Coefficient of Determination will be discussed in terms of its relationship to the linear regression equation.
 
-Please note that this README.md file provides an overview of the analysis process, and the detailed analysis can be found in the code file within this repository.
+Please note that this README.md file provides an overview of the analysis process, and the detailed analysis can be found in the code file within this repository. The final results, including findings and conclusions, will be compiled into a comprehensive report.
